@@ -1,9 +1,15 @@
-# project_1
-Project_1: Analysis of Health Data from "World Health Statistics 2020|Complete|Geo-Analysis" Kaggle File (csv)
+# Project: 
 
-Our Question: Is there a significant global correlation between tobacco and/or alcohol consumption & the probability of death by preventable or lifestyle diseases?
+## Project 1: Analysis of Health Data from "World Health Statistics 2020|Complete|Geo-Analysis" Kaggle File (csv)
 
-Our metrics:
+#### Our Question: Is there a significant global correlation between tobacco and/or alcohol consumption & the probability of death by preventable or lifestyle diseases?
+
+## Observable Trends:
+* Probability of Dying (%)(defined in detail below), over the countries between 2005-2015 is showing a decline, which is correlated to decrease in tobacco smoking and alcohol consumption.
+* HALE (Healthy Life Expectancy) (in years) is going up around the world.
+* For USA, the female Healthy Life Expectancy (years) was higher than that for male.
+
+#### Our metrics:
 
 1) Probability of Death (%)
 
