@@ -34,4 +34,3 @@ Tobacco use percentage refers to the proportion of a population (15+ yrs) that u
 
 2) Alcohol Consumption per Capita
 
-Average alcohol consumption (liters of pure alcohol) consumed per person in a nation.
