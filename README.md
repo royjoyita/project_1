@@ -9,6 +9,13 @@
 * HALE (Healthy Life Expectancy) (in years) is going up around the world.
 * For USA, the female Healthy Life Expectancy (years) was higher than that for male.
 
+## Learning Curve:
+* We started with gathering csv files, deciding on which data sets to use for our study, cleaning them and then started using them for writing scripts. 
+
+* We started digging into data sets to look for indicators in them that we could use to make a link among them. We finally shortlisted some and started working on our analysis. Using Python coding and pandas libraries, making use of statistics to make conclusions (predictions), plotting the desired results, using Gmaps API to map our observations, and working with team members were the highlights. The most exciting part was when we worked together in Zoom Meetings on scripting in the Jupyter Notebook. We would go back and forth to write code, fix the errors, plot the data to check if it makes sense, and move on, etc.
+
+* Finally, working on presentation also helped us understand how our study returned the desired results! Overall, it was a great experience for all of us as a first project.
+
 #### Our metrics:
 
 1) Probability of Death (%)
