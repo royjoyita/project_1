@@ -27,5 +27,5 @@ H.A.L.E. (Healthy Life Expectancy) referring to the number of years a person can
 1. Tobacco Use (%)
 Tobacco use percentage refers to the proportion of a population (15+ yrs) that uses tobacco.
 
-2* Alcohol Consumption per Capita (liters)
+2. Alcohol Consumption per Capita (liters)
 Alcohol consumption refers to the litres of pure alcohol per person per year.
